@@ -6,6 +6,7 @@ import time
 from datetime import datetime
 from typing import Any, Dict
 
+from PIL import Image
 from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import Command, StateFilter
 from aiogram.fsm.state import StatesGroup, State
