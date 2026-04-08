@@ -1,3 +1,4 @@
+import Pillow
 import os
 import asyncio
 import logging
